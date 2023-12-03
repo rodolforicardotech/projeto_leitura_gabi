@@ -27,4 +27,3 @@ elif botao == True and opcao == 'ANIMAIS':
     st.markdown(f"<h1 style='text-align: center; color: red;'>{listaAnimais[numeroAleatorioAnimais]}</h1>", unsafe_allow_html=True)
 else:
     st.markdown(f"<h1 style='text-align: center; color: red;'>{listaObjetos[numeroAleatorioObjetos]}</h1>", unsafe_allow_html=True)
-
