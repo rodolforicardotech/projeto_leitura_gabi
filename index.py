@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 listaAnimais = ['CACHORRO', 'GATO', 'PAPAGAIO', 'PEIXE', 'COBRA', 'TARTARUGA', 'COELHO', 'HAMSTER', 'FURÃO', 'PORQUINHO DA ÍNDIA', 'CHINCHILA', 'PÁSSARO']
-listaObjetos = ['CADEIRA', 'MESA', 'LIVRO', 'CANETA', 'CELULAR', 'TELEVISÃO', 'CARRO', 'BICICLETA', 'GELADEIRA', 'FOGÃO']
+listaObjetos = ['CADEIRA', 'MESA', 'LIVRO', 'CANETA', 'CELULAR', 'TELEVISÃO', 'CARRO', 'BICICLETA', 'GELADEIRA', 'BOLA']
 
 listaObejtosComC = ['CADEIRA', 'CANETA', 'CELULAR', 'CARRO', 'CAMA', 'CACHIMBO', 'COLHER', 'COMPUTADOR', 'CORTINA']
 
